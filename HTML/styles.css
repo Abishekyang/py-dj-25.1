@@ -1,0 +1,27 @@
+h1, h3, h5 {
+    color: gold;
+}
+
+h2, h4, h6 {
+    color:green;
+}
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: bisque;
+    background-image: url("images/illustrationstock_cyberthreats-recolored_adobestock_422696329.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: cover;
+
+
+    /* background: bisque url('1758765-1863393828.jpg') no-repeat right top; */
+}
+
+#first-heading {
+    color: purple;
+}
+
+.blue-color {
+    color: blue;
+}
